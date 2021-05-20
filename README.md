@@ -12,7 +12,7 @@ The training was part of the inital stages of the DigiDex GitBook project.
   
 ## License
 
-[Access the licence for this repo](LICENCE.MD)
+[Access the licence for this repo](LICENCE.md)
 
   
 ## Acknowledgements
