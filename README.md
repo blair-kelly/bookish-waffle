@@ -1,7 +1,7 @@
 
 # bookish-waffle: a repository from GitHub training, May 2021
 
-This repository was created on 21 May, 2021, for the purposes of participating in the GitHub training session deliverd by Matthias and Liz from ARDC. 
+This repository was created on 21 May, 2021, for the purposes of participating in the GitHub training session. 
 The training was part of the inital stages of the DigiDex GitBook project.
 
 
